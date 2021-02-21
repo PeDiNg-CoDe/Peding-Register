@@ -1,0 +1,15 @@
+{
+  "name": "peding-rguard",
+  "version": "0.0.1",
+  "description": "Peding RGuard Bot",
+  "main": "peding-main.js",
+  "scripts": {
+    "test": "node peding-main.js"
+  },
+  "author": "Peding",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  },
+  "keywords": []
+}
